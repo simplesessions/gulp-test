@@ -1,0 +1,19 @@
+$main-color: #06c;
+$accent-color: #006;
+$dimension-top: 4rem;
+$something-else: 50rem;
+
+/*:root {
+  --main-color: #06c;
+  --accent-color: #006;
+  --dimension-top: 4rem;
+}*/
+
+p {
+  color: green;
+}
+
+h2 {
+  font-size: 40rem;
+  color: $main-color;
+}

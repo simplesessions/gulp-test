@@ -1,5 +1,6 @@
 var animals = [
   'elephant',
   'monkey',
-  'zebra'
+  'zebra',
+  'otter'
 ];
